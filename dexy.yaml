@@ -22,13 +22,13 @@ latex-code:
     - code/*.py|py
     - code/*.txt
 
-png-code:
-    - code/*.sh-session|pyg|pn:
-        - pyg: { 'add-new-files' : True, 'line_numbers' : True }
-    - code/*.py|py
-    - code/*.py|pyg|pn:
-        - pyg: { 'add-new-files' : True, 'line_numbers' : True }
-    - code/*.txt
+# png-code:
+#     - code/*.sh-session|pyg|pn:
+#         - pyg: { 'add-new-files' : True, 'line_numbers' : True }
+#     - code/*.py|py
+#     - code/*.py|pyg|pn:
+#         - pyg: { 'add-new-files' : True, 'line_numbers' : True }
+#     - code/*.txt
 
 .rst|yamlargs|jinja|rst2html:
     - html-code
@@ -50,12 +50,12 @@ learn-x-the-hard-way.rst|jinja|rst2latex|latex:
           add-new-files: True
         }
 
-learn-x-the-hard-way.rst|jinja|rst2html|calibre:
-    - code
-    - assets
-    - png-code
-    - ex*.rst
-    - rst2html:
-        { clargs: }
+# learn-x-the-hard-way.rst|jinja|rst2html|calibre:
+#     - code
+#     - assets
+#     - png-code
+#     - ex*.rst
+#     - rst2html:
+#         { clargs: }
 
 
