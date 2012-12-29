@@ -43,7 +43,7 @@ learn-x-the-hard-way.rst|jinja|rst2latex|latex:
     - tex-assets
     - ex*.rst
     - rst2latex:
-        { clargs: "--documentclass=article \
+        { clargs: "--documentclass=book \
                    --documentoptions=letterpaper \
                    --latex-preamble='\\include{preamble}' \
                    --stylesheet=orkestrix",
