@@ -6,8 +6,8 @@ kit will get you started quickest for the best results.
 I've developed this kit after using various publishing and authoring systems
 over the years, and I've found this to be the best for producing high quality
 self-published rstt.  It uses the latest book building gear I've put together,
-and *no longer* requires you to learn LaTeX.  You just need to know reStructuredText
-wich is like a strict markdown (that's a good thing).
+and *no longer* requires you to learn LaTeX.  You just need to know
+reStructuredText which is like a strict markdown (that's a good thing).
 
 Getting Started
 ===============
@@ -32,6 +32,9 @@ Or, using PIP:
 If you want to make .mobi books with Calibre go install that:
 
 http://calibre-ebook.com/
+
+If you're on Mac OS X, you'll also need to do this:
+http://manual.calibre-ebook.com/cli/cli-index.html
 
 Once you have those, try this:
 
