@@ -20,6 +20,15 @@ Or, using PIP:
 
     $ pip install dexy
 
+If you want to produce output in HTML format, docutils is also required to be 
+installed:
+
+    $ easy_install docutils
+
+Or, using PIP:
+
+    $ pip install docutils
+
 If you want to make .mobi books with Calibre go install that:
 
 http://calibre-ebook.com/
