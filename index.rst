@@ -9,7 +9,7 @@ Table Of Contents
 
 * `Preface <preface.html>`_
 * `Introduction <introduction.html>`_
-* `Exercise 0 <ex0.html>`_
+* `习题 0 <ex0.html>`_
 * `Exercise 1 <ex1.html>`_
 * `Exercise 2 <ex2.html>`_
 * `Exercise 3 <ex3.html>`_
