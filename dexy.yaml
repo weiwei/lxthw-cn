@@ -8,7 +8,7 @@ assets:
 
 tex-assets:
     - .tex
-    - .sty|jinja
+    - .sty|jinja|xelatex
 
 html-code:
     - code/*.sh-session|pyg|h

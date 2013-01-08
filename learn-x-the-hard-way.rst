@@ -1,9 +1,9 @@
 {% import "macros/ork.jinja" as ork with context %}
-Learn X The Hard Way
+笨办法学？？
 ********************
 
 
-Table Of Contents
+目录
 =================
 
 .. contents::

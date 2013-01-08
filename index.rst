@@ -1,58 +1,58 @@
 {% import "macros/ork.jinja" as ork with context %}
-{% import "macros/ork.jinja" as ork with context %}
-Learn X The Hard Way
+
+笨办法学？？
 ======================
 
 
-Table Of Contents
+目录
 =================
 
-* `Preface <preface.html>`_
-* `Introduction <introduction.html>`_
+* `前言 <preface.html>`_
+* `简介 <introduction.html>`_
 * `习题 0 <ex0.html>`_
-* `Exercise 1 <ex1.html>`_
-* `Exercise 2 <ex2.html>`_
-* `Exercise 3 <ex3.html>`_
-* `Exercise 4 <ex4.html>`_
-* `Exercise 5 <ex5.html>`_
-* `Exercise 6 <ex6.html>`_
-* `Exercise 7 <ex7.html>`_
-* `Exercise 8 <ex8.html>`_
-* `Exercise 9 <ex9.html>`_
-* `Exercise 10 <ex10.html>`_
-* `Exercise 11 <ex11.html>`_
-* `Exercise 12 <ex12.html>`_
-* `Exercise 13 <ex13.html>`_
-* `Exercise 14 <ex14.html>`_
-* `Exercise 15 <ex15.html>`_
-* `Exercise 16 <ex16.html>`_
-* `Exercise 17 <ex17.html>`_
-* `Exercise 18 <ex18.html>`_
-* `Exercise 19 <ex19.html>`_
-* `Exercise 20 <ex20.html>`_
-* `Exercise 21 <ex21.html>`_
-* `Exercise 22 <ex22.html>`_
-* `Exercise 23 <ex23.html>`_
-* `Exercise 24 <ex24.html>`_
-* `Exercise 25 <ex25.html>`_
-* `Exercise 26 <ex26.html>`_
-* `Exercise 27 <ex27.html>`_
-* `Exercise 28 <ex28.html>`_
-* `Exercise 29 <ex29.html>`_
-* `Exercise 30 <ex30.html>`_
-* `Exercise 31 <ex31.html>`_
-* `Exercise 32 <ex32.html>`_
-* `Exercise 33 <ex33.html>`_
-* `Next Steps <next.html>`_
+* `习题 1 <ex1.html>`_
+* `习题 2 <ex2.html>`_
+* `习题 3 <ex3.html>`_
+* `习题 4 <ex4.html>`_
+* `习题 5 <ex5.html>`_
+* `习题 6 <ex6.html>`_
+* `习题 7 <ex7.html>`_
+* `习题 8 <ex8.html>`_
+* `习题 9 <ex9.html>`_
+* `习题 10 <ex10.html>`_
+* `习题 11 <ex11.html>`_
+* `习题 12 <ex12.html>`_
+* `习题 13 <ex13.html>`_
+* `习题 14 <ex14.html>`_
+* `习题 15 <ex15.html>`_
+* `习题 16 <ex16.html>`_
+* `习题 17 <ex17.html>`_
+* `习题 18 <ex18.html>`_
+* `习题 19 <ex19.html>`_
+* `习题 20 <ex20.html>`_
+* `习题 21 <ex21.html>`_
+* `习题 22 <ex22.html>`_
+* `习题 23 <ex23.html>`_
+* `习题 24 <ex24.html>`_
+* `习题 25 <ex25.html>`_
+* `习题 26 <ex26.html>`_
+* `习题 27 <ex27.html>`_
+* `习题 28 <ex28.html>`_
+* `习题 29 <ex29.html>`_
+* `习题 30 <ex30.html>`_
+* `习题 31 <ex31.html>`_
+* `习题 32 <ex32.html>`_
+* `习题 33 <ex33.html>`_
+* `下一步 <next.html>`_
 
 .. _faq:
 
-Frequently Asked Questions
+常见问题回答
 ==========================
 
-How long does this course take?
-    You should take as long as it takes to get through it, but focus on doing work every day.
-    Some people take about 3 months, others 6 months, and some only a week.
+课程要花多久？
+    直到你全部弄懂为止，记得要每天去做练习。有的人花了三个月，有人花了六个月，有的一个星期就\
+    搞定了。
 
-What kind of computer do I need?
-    You will need either a Windows, OSX or Linux computer to complete this book.
+我需要什么样的计算机来完成课程？
+    Windows、OSX、或者 Linux 都可以。

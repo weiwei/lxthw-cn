@@ -1,4 +1,4 @@
-Next Steps
+下一步
 ==========
 
-What should they do after reading your book to learn more on the subject.
+读完这本书后该怎样继续进一步学习。
